@@ -1,2 +1,159 @@
-# Python---Jarvis
-“A Python-powered voice assistant that listens to voice commands, speaks responses, opens websites, plays music, fetches live news and weather, provides system information, and searches Wikipedia.”
+🤖 # Python Jarvis
+
+A powerful Python-based voice assistant that listens to voice commands, responds with speech, opens websites, plays music, fetches live news and weather, provides system information, and searches Wikipedia.
+
+✨ #Features
+
+- 🎤 Voice command recognition
+- 🔊 Text-to-speech responses
+- 🌐 Open Google, YouTube, Facebook, and LinkedIn
+- 🎵 Play music using voice commands
+- 📰 Fetch the latest Pakistan news headlines
+- 🕐 Display current date and time
+- 🌤️ Check weather for different cities
+- 💻 Display system information
+- 📚 Search Wikipedia using voice commands
+- 🤖 Activate the assistant using the "Jarvis" wake word
+
+🛠️ ##Technologies Used
+
+- Python
+- SpeechRecognition
+- Pyttsx3
+- Requests
+- Wikipedia
+- NewsAPI
+- Webbrowser
+- Microphone / Speech Recognition
+
+📂 #Project Structure
+
+Python-Jarvis/
+│
+├── main.py
+├── musiclibrary.py
+├── requirements.txt
+├── .gitignore
+└── README.md
+
+⚙️ #Installation
+
+1. Clone the Repository
+
+git clone https://github.com/hamid-fastian/Python-Jarvis.git
+
+2. Navigate to the Project
+
+cd Python-Jarvis
+
+3. Install Dependencies
+
+pip install -r requirements.txt
+
+4. Set Up NewsAPI
+
+Create a NewsAPI account and get your own API key.
+
+For security, do not upload your API key directly to GitHub.
+
+5. Connect a Microphone
+
+Make sure your microphone is properly connected and available to Python.
+
+▶️ #How to Run
+
+Run the following command:
+
+python main.py
+
+Jarvis will initialize and start listening for the wake word:
+
+Jarvis
+
+After saying "Jarvis", the assistant will respond and listen for your command.
+
+🎙️ #Example Commands
+
+🌐 #Open Websites
+
+Open Google
+Open YouTube
+Open Facebook
+Open LinkedIn
+
+🎵 #Play Music
+
+Play [song name]
+
+📰 #Get News
+
+Tell me the news
+
+🌤️ #Check Weather
+
+What is the weather in Lahore
+
+💻 #System Information
+
+System information
+
+📚 #Wikipedia Search
+
+Ask Jarvis about a topic and it will search Wikipedia.
+
+Example:
+
+Who is Albert Einstein
+
+🔄 #How It Works
+
+Start Jarvis
+     ↓
+Listen for "Jarvis"
+     ↓
+Activate Assistant
+     ↓
+Listen for Command
+     ↓
+Process Command
+     ↓
+Perform Requested Task
+     ↓
+Speak / Display Result
+
+🔮 #Future Improvements
+
+- Add more voice commands
+- Improve speech recognition
+- Add AI-powered conversations
+- Add more APIs and services
+- Add application launching
+- Add reminders and alarms
+- Improve error handling
+- Add a graphical user interface
+- Add a more advanced wake-word detection system
+
+🎯 #Project Purpose
+
+This project was developed to practice Python programming and explore real-world applications of:
+
+- Speech recognition
+- Text-to-speech
+- APIs
+- Web automation
+- Python modules
+- Voice-controlled applications
+
+👨‍💻 #Author
+
+Hamid Raza
+
+GitHub: https://github.com/hamid-fastian
+
+📌 #License
+
+This project is licensed under the MIT License.
+
+⭐ Support
+
+If you find this project useful, consider giving the repository a ⭐ on GitHub.
