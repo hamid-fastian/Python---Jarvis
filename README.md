@@ -1,33 +1,34 @@
-🤖 # Python Jarvis
+# 🤖 Python Jarvis
 
 A powerful Python-based voice assistant that listens to voice commands, responds with speech, opens websites, plays music, fetches live news and weather, provides system information, and searches Wikipedia.
 
-✨ #Features
+# ✨ Features
 
-- 🎤 Voice command recognition
-- 🔊 Text-to-speech responses
-- 🌐 Open Google, YouTube, Facebook, and LinkedIn
-- 🎵 Play music using voice commands
-- 📰 Fetch the latest Pakistan news headlines
-- 🕐 Display current date and time
-- 🌤️ Check weather for different cities
-- 💻 Display system information
-- 📚 Search Wikipedia using voice commands
-- 🤖 Activate the assistant using the "Jarvis" wake word
+* 🎤 Voice command recognition
+* 🔊 Text-to-speech responses
+* 🌐 Open Google, YouTube, Facebook, and LinkedIn
+* 🎵 Play music using voice commands
+* 📰 Fetch the latest Pakistan news headlines
+* 🕐 Display current date and time
+* 🌤️ Check weather for different cities
+* 💻 Display system information
+* 📚 Search Wikipedia using voice commands
+* 🤖 Activate the assistant using the "Jarvis" wake word
 
-🛠️ ##Technologies Used
+# 🛠️ Technologies Used
 
-- Python
-- SpeechRecognition
-- Pyttsx3
-- Requests
-- Wikipedia
-- NewsAPI
-- Webbrowser
-- Microphone / Speech Recognition
+* Python
+* SpeechRecognition
+* Pyttsx3
+* Requests
+* Wikipedia
+* NewsAPI
+* Webbrowser
+* Microphone / Speech Recognition
 
-📂 #Project Structure
+# 📂 Project Structure
 
+```text
 Python-Jarvis/
 │
 ├── main.py
@@ -35,78 +36,102 @@ Python-Jarvis/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
-⚙️ #Installation
+# ⚙️ Installation
 
-1. Clone the Repository
+## 1. Clone the Repository
 
+```bash
 git clone https://github.com/hamid-fastian/Python-Jarvis.git
+```
 
-2. Navigate to the Project
+## 2. Navigate to the Project
 
+```bash
 cd Python-Jarvis
+```
 
-3. Install Dependencies
+## 3. Install Dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
-4. Set Up NewsAPI
+## 4. Set Up NewsAPI
 
 Create a NewsAPI account and get your own API key.
 
 For security, do not upload your API key directly to GitHub.
 
-5. Connect a Microphone
+## 5. Connect a Microphone
 
 Make sure your microphone is properly connected and available to Python.
 
-▶️ #How to Run
+# ▶️ How to Run
 
 Run the following command:
 
+```bash
 python main.py
+```
 
 Jarvis will initialize and start listening for the wake word:
 
+```text
 Jarvis
+```
 
-After saying "Jarvis", the assistant will respond and listen for your command.
+After saying **"Jarvis"**, the assistant will respond and listen for your command.
 
-🎙️ #Example Commands
+# 🎙️ Example Commands
 
-🌐 #Open Websites
+## 🌐 Open Websites
 
+```text
 Open Google
 Open YouTube
 Open Facebook
 Open LinkedIn
+```
 
-🎵 #Play Music
+## 🎵 Play Music
 
+```text
 Play [song name]
+```
 
-📰 #Get News
+## 📰 Get News
 
+```text
 Tell me the news
+```
 
-🌤️ #Check Weather
+## 🌤️ Check Weather
 
+```text
 What is the weather in Lahore
+```
 
-💻 #System Information
+## 💻 System Information
 
+```text
 System information
+```
 
-📚 #Wikipedia Search
+## 📚 Wikipedia Search
 
 Ask Jarvis about a topic and it will search Wikipedia.
 
 Example:
 
+```text
 Who is Albert Einstein
+```
 
-🔄 #How It Works
+# 🔄 How It Works
 
+```text
 Start Jarvis
      ↓
 Listen for "Jarvis"
@@ -120,40 +145,41 @@ Process Command
 Perform Requested Task
      ↓
 Speak / Display Result
+```
 
-🔮 #Future Improvements
+# 🔮 Future Improvements
 
-- Add more voice commands
-- Improve speech recognition
-- Add AI-powered conversations
-- Add more APIs and services
-- Add application launching
-- Add reminders and alarms
-- Improve error handling
-- Add a graphical user interface
-- Add a more advanced wake-word detection system
+* Add more voice commands
+* Improve speech recognition
+* Add AI-powered conversations
+* Add more APIs and services
+* Add application launching
+* Add reminders and alarms
+* Improve error handling
+* Add a graphical user interface
+* Add a more advanced wake-word detection system
 
-🎯 #Project Purpose
+# 🎯 Project Purpose
 
 This project was developed to practice Python programming and explore real-world applications of:
 
-- Speech recognition
-- Text-to-speech
-- APIs
-- Web automation
-- Python modules
-- Voice-controlled applications
+* Speech recognition
+* Text-to-speech
+* APIs
+* Web automation
+* Python modules
+* Voice-controlled applications
 
-👨‍💻 #Author
+# 👨‍💻 Author
 
-Hamid Raza
+**Hamid Raza**
 
 GitHub: https://github.com/hamid-fastian
 
-📌 #License
+# 📌 License
 
 This project is licensed under the MIT License.
 
-⭐ Support
+# ⭐ Support
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
