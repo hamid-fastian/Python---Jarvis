@@ -172,9 +172,15 @@ This project was developed to practice Python programming and explore real-world
 
 # 👨‍💻 Author
 
-**Hamid Raza**
+**Malik Hamid Raza**
 
-GitHub: https://github.com/hamid-fastian
+**BS Artificial Intelligence Student at FAST-NUCES**
+
+Passionate about building practical projects, strengthening programming and problem-solving skills, and continuously exploring new technologies in Artificial Intelligence and Software Development.
+
+# 🌐 Connect with Me
+# GitHub: https://github.com/hamid-fastian
+# LinkedIn: https://www.linkedin.com/in/malik-hamid-raza-9338693a8
 
 # 📌 License
 
